@@ -47,4 +47,4 @@ Recibiras transmisiones de tu instructor con misiones que deberas completar ante
 
 Kamino, esta en un sistema de 13 planetas en órbita a una estrella envejecida al sur del Laberinto Rishi, una galaxia enana satélite en órbita hacía y alrededor de la Galaxia principal. El tormentoso mundo acuático de Kamino se encontraba en el Espacio Salvaje. Su interior se componía de un núcleo fundido con un manto rocoso y una corteza de silicatos.
 
-Habitado por los kaminoanos el planeta es una fabrica de clones entrenados para la guerra, especialistas en guerrilla, por eso te dirigues ahi. Como todo combatiente debes conocer las bases del Desarrollo y que mejor hacerlo con lo mas basico, preparate para [el aterrizaje](kamino.md)
+Habitado por los kaminoanos el planeta es una fabrica de clones entrenados para la guerra, especialistas en guerrilla, por eso te dirigues ahi. Como todo combatiente debes conocer las bases del Desarrollo y que mejor hacerlo con lo mas basico, preparate para [el aterrizaje](Kamino.md)
