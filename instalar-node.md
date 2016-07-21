@@ -52,5 +52,5 @@ Al finalizar haz una reflexion sobre el workshop que contenga lo siguiente...
 
 Cuantos pomodoros te tomo terminar?
 Que temas son con lo que mas luchaste? (Del mas dificil al menos dificil...)
-Que es NPM?
-Para qu usamos el ```alias js=javascripting```?
+Que es npm?
+Para que usamos el ```alias js=javascripting```?
