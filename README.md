@@ -43,7 +43,23 @@ La primera parte de tu entrenamiento esta completa, y haz salido de Tatooine y a
   (Si eres experto en ingles, aprende aleman, frances, o klingon)
 - Dedica tiempo a aprender [Javascript con codecademy](https://www.codecademy.com/learn/javascript) (2 pomodoros)
 
-Antes que nada deberas instalar Node.js en tu equipo, despuesecibiras transmisiones de tu instructor con misiones que deberas completar antes de llegar a tu destino,
+
+Antes que nada deberas [instalar Node.js en tu equipo](instalar-node.md), despues, recibiras transmisiones de tu instructor con misiones que deberas completar antes de llegar a tu destino,
+
+Antes de seguir hay que repasar lo basico, toma el tiempo que te lleva terminar el siguiente workshop, tambien toma nota de que temas son los que te llevan mas tiempo o en los que tuviste mas dificultad.
+
+Escribe estos comandos en la teminal, uno por uno...
+```npm install -g javascripting
+alias js=javascripting
+```
+
+Al finalizar haz una reflexion sobre el workshop que contenga lo siguiente...
+
+Cuantos pomodoros te tomo terminar?
+Que temas son con lo que mas luchaste? (Del mas dificil al menos dificil...)
+Que es npm?
+Para que usamos el
+```alias js=javascripting```?
 
 Kamino, esta en un sistema de 13 planetas en órbita a una estrella envejecida al sur del Laberinto Rishi, una galaxia enana satélite en órbita hacía y alrededor de la Galaxia principal. El tormentoso mundo acuático de Kamino se encontraba en el Espacio Salvaje. Su interior se componía de un núcleo fundido con un manto rocoso y una corteza de silicatos.
 
