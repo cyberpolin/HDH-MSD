@@ -1,16 +1,38 @@
-# Bienvenido a Hipatia Dev House
+# Bienvenido a Hipathia Dev House
 
-Estas a punto de entrar a un mundo mágico, e inmenso, el desarrollo es mas que una profesión, es un arte, es un oficio y es una forma de vida.
+Fue un susurro. <It was a whisper.>
 
-El camino es largo pero divertido.
+Lo sentiste. Siempre estuvo ahí pero de alguna manera, por vez primera, lo has sentido. <You`ve felt it. It was always there but somehow, for the first time, you´ve felt it.>
 
-## Seré un desarrollador...
+Algo te está llamando. 
+<Something is calling you.>
 
-Al terminar este curso seras mas que eso, habrás aprendido a conocerte mejor, a conocer y escuchar a tu cuerpo, pero lo mas importante es que habrás aprendido como ser un desarrollador en cuerpo y mente.
+Hasta ahora, los obstáculos han convertido tu esfuerzo en frustración. La frustración te aleja del camino correcto. El más alto camino. 
+<Untill now, the obstacules have turned your efforts in frustration. Frustration drives you away from the right path. The Higher Path.>
 
-### Desarrollador vs Programador
+Siempre has sabido que puedes ser el amo de ti mismo. Sin embargo, el miedo te ha llevado a dudar de tus decisiones. Este no es el camino de la luz. 
+<You have always known that you can be your own master. However, fear has led you to doubt your desitions. This is not the Path of Light.>
 
-En Hipatia Dev House creemos firmemente que un desarrollador y un programador son diferentes cosas, hay una gran diferencia entre escribir código a ser una persona que desarrolla habilidades, productos y código. Piensa en ti como un todo.
+Si estás frustrado la ira se apoderará de ti. La ira es miedo. Si tienes miedo sufrirás. 
+<If you are frustrated rage will own you. Anger is fear. If you fear, you suffer.>
+
+[video]: https://www.youtube.com/watch?v=91_G8iaokk8
+
+Pero ahora lo sabes. La fuerza está llamandote. Siempre la has sentido; nos rodea, nos llena y mantiene el universo unido. 
+<But now you know it. The force is calling you. You have always felt it; it sorround us, it fills us and keeps the universe together.>
+
+Sentir la fuerza y sentir la paz que viene con ella es tu primer pilar. Este es el camino que la fuerza te ha mostrado. Estas a punto de entrar a un mundo mágico; a un mundo inmenso. El desarrollo es mas que una profesión, es un arte, es un oficio raro y es una forma de vida. Bienvenido al camino. Bienvenido al camino más alto. Bienvenido a HIPATHia.
+<To feel the force and to feel the peace that comes with it is your first pillar. This is the path that the force has showed you. You are about to enter a magical world; an inmense world. Development is more than a profession, it is an art, is a rare trade and a way of life. Welcome to the PATH. Welcome to the HI PATH. Welcome to HIPATHia.>
+
+## Quiero convertirme en un desarrollador... <I want to become a developer...>
+
+Al terminar este curso seras mas que eso. Habrás aprendido como ser un desarrollador en la fuerza. Tu base serán los tres pilares de cualquier Guerrero de Código Jedi: La fuerza, el conocimiento y la autodisciplina. <At the end of this course you will become more than that. You will learn how to be a developer into the force. Your base will be the three pillars of any Jedi Code Warrior: The force, Knowledge and Self Discipline.>
+
+### Desarrollador vs Programador <Developer vs Programmer>
+
+En Hipatia Dev House creemos firmemente que un desarrollador y un programador son diferentes cosas, hay una gran diferencia entre escribir código a ser una persona que desarrolla habilidades, productos y código. Piensa en ti como un todo. Como aprenderás pronto, la fuerza nos une a todos en uno. La fuerza está en todas partes.
+
+[video]: https://www.youtube.com/watch?v=HMUKGTkiWik
 
 ### You must unlearn what you have learned...
 El gran y sabio maestro Yoda ya lo dijo en Dagobah, "You must unlearn what you have learned", and you must learn new stuff too. Development is a English language activity so if you don't speak the language learn it.
