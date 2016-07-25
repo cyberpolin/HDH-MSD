@@ -4,17 +4,26 @@
 
 kamino esta rodeado por agua, los kaminoanos no te esperaban y tuviste que acuatizar, no sabemos que tan lejos estas de una de las ciudades, asi que toma tu nave y vuela alrededor del planeta en busca de alguna ciudad...
 
-### Bugs!
+### 1. Bugs!
 
 Al parecer tu nave no enciende, abra que entrar a la consola y revisar el problema, no te preocupes, todo el sistema esta desarrollado en Javascript, un lenguaje que tu conoces, sin embargo, no estas acostumbrado a usarlo, mucho menos a debugear javascript, pero la orden Jedi dejo una serie de transmisiones para ti.
 
-Lo primero que debes saber es como [debugear en Javascript](js-debuging.youtube)
+Lo primero que debes saber es como [debugear en Javascript](http://www.youtube.com/watch?v=pIAV9gdpsgI).
+
+Es hora de debugear, asi que ve a tu terminal y escribe los siguientes comandos...
+
+'''
+npm install -g bug-clinic
+alias bc=bug-clinic
+bc
+'''
+Y sigue las instrucciones.
 
 Muy bien, haz identificado el problema, esta nave no tiene un modulo para navegar en agua, y es por eso la falla, habra que programar este modulo, pero antes de hacerlo tenemos que [hacer el pseudocodigo](pseudo-codigo.md)
 
 Felicidades al parecer la nave arranca, asi que a volar...
 
-### Mas bugs!
+### 2. Mas bugs!
 
 Algo no esta bien, los controles de la nave estan al reves? que hiciste?
 
