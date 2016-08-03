@@ -6,7 +6,7 @@ El equilibrio es el secreto, debes ser creativo, pero ten cuidado de caer en exc
 
 Utiliza tus pomodoros, y descanza 15 minutos despues de cada cuatro, si vas a hacer ejercicio o estiramientos tomate un pomodoro para ello, veras que te ayudara.
 
-### 1. Dise;o
+### 1. Diseño
 Antes de inciar a "tirar codigo" es bueno tener una idea general sobre el dise;o, cosas como las fuentes, colores imagenes y logotipos o iconos. Recuerda que los colores son importantes y que una buena convinacion de colores puede dar la impresion adecuada.
 
 - [Adobe Color](https://color.adobe.com/create/color-wheel/)
@@ -27,7 +27,7 @@ Antes de inciar a "tirar codigo" es bueno tener una idea general sobre el dise;o
 
 ### 3. Publica tu sitio
 
-El repositorio que creaste puede usarse en github para publicar tu sitio, como se muestra en [este video](github.io).
+El repositorio que creaste puede usarse en github para publicar tu sitio, como se muestra en [este tutorial](tutorial-ghpages.md).
 
 ### 4. La revision
 
