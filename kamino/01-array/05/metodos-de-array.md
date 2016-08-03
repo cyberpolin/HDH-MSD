@@ -12,4 +12,6 @@ Tu tarea esta semana sera aprender a usar cada uno de los metodos de los arreglo
 
 Cuando termines sube las soluciones a la plataforma.
 
-Lo haz hecho bien en tu primer dia en camino, felicidades sobreviviste.
+Lo haz hecho bien en tu primer dia en Kamino.
+
+Felicidades sobreviviste!.
