@@ -4,7 +4,7 @@ Debe entregarse el Viernes 15, recuerda que tu no eres un programador normal, er
 ### Be carefull with your inner critic
   Your inner critic it's going to tell you that you wouldnt be able to complete this task, here is  a [video](https://youtu.be/uWc4pZhnpOw) that will help you...
 
-Completa las unidades 1,3,4 y 6 de HTML & CSS de [codecademy](https://www.codecademy.com/learn/web)
+Completa las unidades 1,3,4 y 6 de HTML & CSS de [codecademy](https://www.codecademy.com/es/tracks/html-css-traduccion-al-espanol-america-latina-clone)
 Publica tu RESUME en github.
 
 Ahora que ya sabes como programar una pagina web, es momento de hacer una desde cero, este proceso debes hacerlo con tu par.
