@@ -3,7 +3,7 @@ Mac
 
 Para poder trabajar de manera eficiente y ser un desarrollador debes usar ciertos programas y lenguajes, los hay varios y de muchos estilos, unos sirven para aplicaciones de escritorio y otros para web, en Hipatia Dev House hemos seleccionado lo mejor.
 
-Para poder completar el entrenamiento necesitaras lo siguiente.
+Para poder completar el entrenamiento necesitarás lo siguiente.
 
 
 
@@ -11,7 +11,7 @@ Para poder completar el entrenamiento necesitaras lo siguiente.
 
 https://atom.io/
 
-Atom es un editor de código desarrollado y soportado por GIT, además de ser gratis y sencillo de usar, es muy flexible ya que su código es abierto y cualquiera puede desarrollar plugins o complementos para el. Atom es uno de los pocos editores modernos que soportan REACT y jsx.
+Atom es un editor de código desarrollado y soportado por GIT, además de ser gratis y sencillo de usar, es muy flexible ya que su código es abierto y cualquiera puede desarrollar plugins o complementos para él. Atom es uno de los pocos editores modernos que soportan REACT y jsx.
 
 Además Atom es una aplicación de escritorio que esta desarrollada con HTML, Javascript CSS y Node.js, ¿Te suena familiar?
 
@@ -19,7 +19,7 @@ Además Atom es una aplicación de escritorio que esta desarrollada con HTML, Ja
 
 https://www.spectacleapp.com/
 
-Espectacle es una aplicación que te permitirá manipular las ventanas de manera mas eficiente.
+Espectacle es una aplicación que te permitirá manipular las ventanas de manera más eficiente.
 
 <!-- Describir el uso con imagenes -->
 
@@ -40,17 +40,17 @@ Además de lo anterior iTerm te permite usar Split Panes, Hotkey Window, search 
 ```
 xcode-select --install
 ```
-Esto ejecutara una serie de ventanas, completa la instalación.
+Esto ejecutará una serie de ventanas, completa la instalación.
 
 ### 5. Instala zsh
 
-zsh es una versión de shell diferente a la que por defecto tiene nuestra Mac, alguna de sus ventajas es el manejo de branches (Ramas) de Git. Zsh tiene otras ventajas que utilizaras mas adelante, por lo pronto notaras una gran mejora visual.
+zsh es una versión de shell diferente a la que por defecto tiene nuestra Mac, alguna de sus ventajas es el manejo de branches (Ramas) de Git. Zsh tiene otras ventajas que utilizaras mas adelante, por lo pronto notarás una gran mejora visual.
 
 ```
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 chsh -s $(which zsh)
 ```
-((Trainee, investigar que es un shell y que es un Bash Shell, hacer documento))
+((Trainee, investigar qué es un shell y qué es un Bash Shell, hacer documento))
 
 Alias   
 Una palabra o expresión corta (con determinadas características), mediante la cual estaríamos simplificando el ingresar comandos en nuestra terminal, a continuación veremos como crear alias.
@@ -93,4 +93,4 @@ git config --global core.editor “atom -wait"
 ```
 ### 8. Casi listo
 
-Estas a punto de iniciarte en el mundo de las artes oscuras del desarrollo web, felicidades, ahora solo tienes que seguir el curso de Mean Stack.
+Estás a punto de iniciarte en el mundo de las artes oscuras del desarrollo web, felicidades, ahora sólo tienes que seguir el curso de Mean Stack.

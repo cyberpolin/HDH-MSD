@@ -2,7 +2,7 @@
 
 Jedi o no lo que realmente te convertirá en un Maestro es la práctica, ahora ya sabes cuales son los pasos que se deben seguir para tener un flujo correcto con GIT, tu primera tarea sera:
 
-1. Crea un listado de todo los pasos que toma hacer un flujo completo de GIT, este listado deberá ser mas un tutorial que un listado. Acompáñalo con imágenes, y recuerda que MarkDown tiene una manera para que se pueda escribir código en el.
+1. Crea un listado de todo los pasos que toma hacer un flujo completo de GIT, este listado deberá ser mas un tutorial que un listado. Acompáñalo con imágenes, y recuerda que MarkDown tiene una manera para que se pueda escribir código en él.
 
 2. Crea un documento que explique los siguiente.
 
@@ -13,7 +13,7 @@ Jedi o no lo que realmente te convertirá en un Maestro es la práctica, ahora y
 
 > Recuerda que esto también lo debes hacer como un tutorial pretende que se lo estas explicando a alguien que no tiene la menor idea de que es y como se utiliza.
 
-- Investiga que es un tablero Kanban y como funciona, una ves que sepas que es kanban y como funciona, ponte de acuerdo con tus compañeros Padawan y repártanse la siguiente tarea.
+- Investiga qué es un tablero Kanban y como funciona, una ves que sepas que es kanban y como funciona, ponte de acuerdo con tus compañeros Padawan y repártanse la siguiente tarea.
 
 
 - La documentación que haz estado leyendo tiene varios errores de ortografía y mejoras que se le pueden hacer, ser un Desarrollador Jedi no solo se trata de ser mas hábil, también se trata de ayudar a los que vienen tras de ti, y es parte fundamental de tu entrenamiento, así que divídanse los documentos que ya han sido creados y hagan las mejoras que crean necesarias.

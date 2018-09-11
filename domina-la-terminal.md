@@ -2,13 +2,13 @@
 
 Los iniciados en las artes Jedi aprenden en primer lugar este modo de combate, basado en técnicas de Kendo, debido a su versatilidad. En ocasiones conocida como "La forma ideal", utiliza barridos horizontales y bloqueos verticales para repeler los ataques laterales, es decir, con la hoja del sable en posición perpendicular a la ofensiva recibida.
 
-El manejo de la terminal es elemental para un desarrollador Jedi, es la manera mas básica para comunicarse con una computadora, y la mas eficaz. Un Desarrollador debe ser un fluido espadachín en las artes de la linea de comandos, esto te ahorrara tiempo y seamos honestos, no hay nada mas puro que la simplicidad y belleza de la terminal.
+El manejo de la terminal es elemental para un desarrollador Jedi, es la manera más básica para comunicarse con una computadora, y la mas eficaz. Un Desarrollador debe ser un fluido espadachín en las artes de la línea de comandos, esto te ahorrará tiempo y seamos honestos, no hay nada más puro que la simplicidad y belleza de la terminal.
 
 - [Domina la terminal](https://youtu.be/ZCrthZzL3L8)
 - Here is a [command line tutorial](http://cli.learncodethehardway.org/book/), you must do every part of it...
 
 
-Investiga que es el bash, toma al menos un pomodoro o como máximo 4 para investigar que es el bash/
+Investiga qué es el bash, toma al menos un pomodoro o como máximo 4 para investigar qué es el bash/
 
 
 ### Lo que haz aprendido, reflexionar debes...

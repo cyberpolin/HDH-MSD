@@ -5,7 +5,7 @@ Antes de obtener el nombre de Caballero Jedi, un Padawan debía realizar una pru
 
 Coruscant sirvió como capital de la República Galáctica, del Imperio Galáctico, de la Nueva República, del Imperio Yuuzhan Vong, de la Alianza Galáctica del Imperio Fel, del Imperio Galáctico de Darth Krayt, y del Triunvirato de la Federación Galáctica. También sirvió varias veces como sede de la Orden Jedi y del Templo Jedi.
 
-Desde hoy en adelante seras tratado como un Desarrollador Jedi, tienes las herramientas y conocimientos necesarios para llevar a cualquier tarea que se te encomiende, desarrollaras una tienda en linea con características que se te irán haciendo llegar conforme avances.
+Desde hoy en adelante seras tratado como un Desarrollador Jedi, tienes las herramientas y conocimientos necesarios para llevar a cualquier tarea que se te encomiende, desarrollarás una tienda en línea con características que se te irán haciendo llegar conforme avances.
 
 Recuerda que todo Desarrollador Jedi debe:
 
@@ -15,7 +15,7 @@ Recuerda que todo Desarrollador Jedi debe:
 - Ser Flexible e ininterrumpible (Ágil).
 - El manejo de Git debe ser impecable.
 - Estar dispuesto a leer y comprender código ajeno.
-- Ser considerado con quienes leerán tu código en un futuro.
+- Ser considerado con quiénes leerán tu código en un futuro.
 
 
 ## La prueba!
@@ -34,7 +34,7 @@ Hipatia no fue la única que sufrió esa suerte, también una parte importante d
 Es por eso que reconstruiremos una biblioteca virtual. Esta tarea sera de varios días, para ello usaremos Scrum una metodología de desarrollo que da preferencia al desarrollo ágil y flexible.
 
 ### Scrum
-Scrum es una metodología que se enfoca en el desarrollo de un producto (software) con un enfoque flexible y ágil. Tu objetivo es hacer un MVP y de ahí crear características, cada característica deberá poderse poner en producción al termino de cada sprint
+Scrum es una metodología que se enfoca en el desarrollo de un producto (software) con un enfoque flexible y ágil. Tu objetivo es hacer un MVP y de ahí crear características, cada característica deberá poderse poner en producción al término de cada sprint
 
   [Que es Scrum?](scrum.md)
 
@@ -43,11 +43,11 @@ Scrum es una metodología que se enfoca en el desarrollo de un producto (softwar
 
 Un Desarrollador debe iniciar todo producto con documentación, la creación del README.md es fundamental y es lo primero que debe crearse, también es lo primero que otros desarrolladores verán antes de revisar el código de tu app.
 
-Para esta tarea trabajaras con un compañero y cambiaras de proyecto en algún momento, así que documenta y comenta tu código de manera considerada para los demás.
+Para esta tarea trabajarás con un compañero y cambiarás de proyecto en algún momento, así que documenta y comenta tu código de manera considerada para los demás.
 
 Usaras Jade y Sass para construir tu front end, solo podrás usar jQuery en el front end, ningún otro framework de Javascript.
 
-El README deberá ser actualizado cada ves que te reúnas con tu Product Owner, ahí deberas agregar requerimientos e ir marcando cada ves que se resuelvan.
+El README deberá ser actualizado cada vez que te reúnas con tu Product Owner, ahí deberas agregar requerimientos e ir marcando cada vez que se resuelvan.
 
 Cada iteración deberá ponerse en un servidor de desarrollo para que el cliente pueda acceder desde cualquier parte del mundo.
 
@@ -59,10 +59,10 @@ Cada iteración deberá ponerse en un servidor de desarrollo para que el cliente
 - [ ] Diseña el schema de la base de datos.
 - [ ] Añade esta documentación al README
 - [ ] El Administrador de la biblioteca deberá poder administrar los libros de la biblioteca, es decir agregar, editar, eliminar, y leer.
-- [ ] Aun no es necesario manejar autenticación ni usuarios finales, recuerda que es importante enfocarse en el MVP
-- [ ] Incluye un diseño básico del sitio, algo limpio y fácil de entender, pero no es necesario tener nada mas.
+- [ ] Aún no es necesario manejar autenticación ni usuarios finales, recuerda que es importante enfocarse en el MVP
+- [ ] Incluye un diseño básico del sitio, algo limpio y fácil de entender, pero no es necesario tener nada más.
 - [ ] Todo debe ser testeado, modelos, controladores y características.
-- [ ] Debes moverte lo mas rápido posible sin perder la calidad, recuerda que llegar al MVP es nuestra meta.
+- [ ] Debes moverte lo más rápido posible sin perder la calidad, recuerda que llegar al MVP es nuestra meta.
 
 ### Segundo Sprint
 
@@ -73,7 +73,7 @@ Second iteration
 - [ ] Diseña el schema de la base de datos.
 - [ ] Añade esta documentación al README
 - [ ] El Administrador de la biblioteca deberá poder administrar los libros de la biblioteca, es decir agregar, editar, eliminar, y leer.
-- [ ] Aun no es necesario manejar autenticación ni usuarios finales, recuerda que es importante enfocarse en el MVP
+- [ ] Aún no es necesario manejar autenticación ni usuarios finales, recuerda que es importante enfocarse en el MVP
 - [ ] Incluye un diseño básico del sitio, algo limpio y fácil de entender, pero no es necesario tener nada mas.
 - [ ] Todo debe ser testeado, modelos, controladores y características.
 - [ ] Debes moverte lo mas rápido posible sin perder la calidad, recuerda que llegar al MVP es nuestra meta.
@@ -127,5 +127,5 @@ Happy Hacking, now GO Build! <3
 
 ## El fin del viaje
 
-  Este es el ultimo planeta que visitaras, y el final de tu entrenamiento, pero no el fin del viaje, es apenas el comienzo, como cualquier Desarrollador Jedi, aun deberas regresar a Tatooine con tu propio Padawan, Hipatia Dev House te asignara un grupo de Padwans para que los guíes y entrenes en las artes del Desarrollo.
-  Enseñar es la mejor manera de aprender, así que esto te ayudara a reafirmar lo que ya sabes, y te enseñara nuevas maneras y estilos, además de enriquecer tus habilidades.
+  Este es el último planeta que visitarás, y el final de tu entrenamiento, pero no el fin del viaje, es apenas el comienzo, como cualquier Desarrollador Jedi, aún deberás regresar a Tatooine con tu propio Padawan, Hipatia Dev House te asignará un grupo de Padwans para que los guíes y entrenes en las artes del Desarrollo.
+  Enseñar es la mejor manera de aprender, así que esto te ayudará a reafirmar lo que ya sabes, y te enseñará nuevas maneras y estilos, además de enriquecer tus habilidades.
