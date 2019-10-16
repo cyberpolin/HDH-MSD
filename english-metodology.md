@@ -1,6 +1,6 @@
 # Ingles lengua del desarrollador Jedi
 
-Como ya lo hemos explicado el Inglés es el idioma en el cual el desarrollo se hace, por lo tanto es una de las habilidades fundamentales de un Desarrollador, es por eso que desarrollamos esta técnica que te ayudara a mejorar tu inglés y otras habilidades...
+Como ya lo hemos explicado el Inglés es el idioma en el cual el desarrollo se hace, por lo tanto es una de las habilidades fundamentales de un Desarrollador, es por eso que desarrollamos esta técnica que te ayudara a mejorar tu Inglés y otras habilidades...
 
 ### Paso 1
 
@@ -8,7 +8,7 @@ Lee o ve el articulo que se te indique.
 
 ### Paso 2
 
-Lee o ve el articulo que se te indique. No esto no es un error...
+Lee o ve el articulo que se te indique. No, esto no es un error...
 
 ### Paso 3
 

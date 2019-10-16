@@ -76,7 +76,7 @@ which -s atom && export EDITOR="atom --wait"
 
 ### 6. Instala Homebrew
 
-Mejor conocido como Brew, es un manejado de aplicaciones basadas en terminal, con esto podrás instalar varios lenguajes de programación, así como utilerías para desarrollo.
+Mejor conocido como Brew, es un manejador de aplicaciones basadas en terminal, con esto podrás instalar varios lenguajes de programación, así como utilerías para desarrollo.
 
 ```
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -84,7 +84,7 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 
 ### 7. Configura Git
 
-Git es un programa fundamental, ayuda al control de versiones de documentos, en el mundo del desarrollo lo ocupamos mucho ya que como veras es de gran ayuda y es una herramienta imprescindible.
+Git es un programa fundamental, ayuda al control de versiones de documentos, en el mundo del desarrollo lo ocupamos mucho ya que como veras, es de gran ayuda y es una herramienta imprescindible.
 
 ```
 git config --global user.name "Juan Perez”

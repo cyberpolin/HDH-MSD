@@ -1,7 +1,7 @@
 
 # The very basics
 
-Lo primero que debes saber es teclear, así que como tarea diaria asigna tu primera media hora del día a practicar tu precisión de tecleo, no quieras  hacerlo rápido, como todo en la vida teclear correctamente es cuestión de practica. Aprende despacio pero aprende bien, veras que en algunas semanas lo harás con bastante precisión.
+Lo primero que debes saber es teclear, así que como tarea diaria asigna tu primera media hora del día a practicar tu precisión de tecleo, no quieras  hacerlo rápido, como todo en la vida, teclear correctamente es cuestión de practica. Aprende despacio, pero aprende bien, veras que en algunas semanas lo harás con bastante precisión.
 
 Puedes usar cualquiera de estas paginas para practicar...
 
