@@ -10,10 +10,10 @@ Al terminar este curso seras mas que eso, habrás aprendido a conocerte mejor, a
 
 ### Desarrollador vs Programador
 
-En Hipatia Dev House creemos firmemente que un desarrollador y un programador son diferentes cosas, hay una gran diferencia entre escribir código a ser una persona que desarrolla habilidades, productos y código. Piensa en ti como un todo.
+En KondoShool creemos firmemente que un desarrollador y un programador son diferentes cosas, hay una gran diferencia entre escribir código a ser una persona que desarrolla habilidades, productos y código. Piensa en ti como un todo.
 
 ### You must unlearn what you have learned...
-El gran y sabio maestro Yoda ya lo dijo en Dagobah, "You must unlearn what you have learned", and you must learn new stuff too. Development is a English language activity so if you don't speak the language learn it.
+El gran y sabio maestro Yoda ya lo dijo en Dagobah, "You must unlearn what you have learned", and you must learn new stuff too. Development is a English language activity so if you don't speak the language *learn it.*
 
 [![MaestroYoda](http://img.youtube.com/vi/z4jeREy7Pbc/0.jpg)][video]
 
