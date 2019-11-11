@@ -1,4 +1,4 @@
-# Bienvenido a Hipatia Dev House
+# Bienvenido a KondoSchool
 
 Estas a punto de entrar a un mundo mágico, e inmenso, el desarrollo es mas que una profesión, es un arte, es un oficio y es una forma de vida.
 
