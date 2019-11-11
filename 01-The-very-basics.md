@@ -19,4 +19,6 @@ Uno de los grandes errores que hacen los programadores es castigar su cuerpo y m
 
 The video is in English, so do not search for videos in Spanish, this is part of your training, watch the video twice and write your own explanation of the technique, once you have it submit it on our platform. Despues busca información en tu idioma y vuelve a escribir tu propia explicación de nuevo, despues comparalas y ve que tan diferentes son.
 
+El video esta en ingles, no busques recursos en español, esto es parte de tu entrenamiento, observa el video dos veces y escribe una explicaciion del la tecnica pomodoro, una ves que lo tengas envialo a hire@kondosoft.com. Despues busca información en tu idioma y vuelve a escribir tu propia explicación de nuevo, despues comparalas y ve que tan diferentes son.
+
 To end this exercise watch the video again and reflect on the differences between the first time you watch it and the second
