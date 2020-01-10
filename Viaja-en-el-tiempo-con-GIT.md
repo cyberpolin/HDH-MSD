@@ -5,7 +5,7 @@ Claro que un Desarrollador Jedi no utilizará este poder en su propio beneficio,
 
 Git es un sistema de control de versiones en el cual puedes registrar los cambios para los archivos que tú elijas, además de esto, sirve de respaldo. ¿No te da alegría saber que no volverás a perder tus archivos? Y no solo eso, podrás tener todos estos cambios en un servidor central, en el cual podrás tener también los cambios que otros desarrolladores hagan a su código.
 
-El científico mas prominente de nuestros tiempos explica que son los viajes en el tiempo y como corregir errores en el pasado...
+El científico mas prominente de nuestros tiempos explica qué son los viajes en el tiempo y como corregir errores en el pasado...
 
 [Viajes en el tiempo](https://youtu.be/0kzHAqPelcc)
 
@@ -16,9 +16,9 @@ Aquí encontrarás una explicación mas clara de que es GIT.
 - [Git basic usage](https://www.youtube.com/watch?v=DXmWPokwmqU)
 
 
-Ahora que sabes que es GIT y como funciona, deberás hacer tu primera tarea en GIT de ahora en adelante todas tus tareas deberán ser entregadas en GIT.
+Ahora que sabes qué es GIT y como funciona, deberás hacer tu primera tarea en GIT de ahora en adelante todas tus tareas deberán ser entregadas en GIT.
 
-1. Crea un nuevo repositorio llamado Tatooine, en cada repositorio deberas poner la carpeta del sprint, y el titulo de la tarea, esto te será proporcionado en todas las tareas.
+1. Crea un nuevo repositorio llamado Tatooine, en cada repositorio deberas poner la carpeta del sprint, y el título de la tarea, esto te será proporcionado en todas las tareas.
   - (Tatooine-HDH > SPRINT-2 > 01-GIT)
 2. Dentro de GIT crea un README.md
 3. Dentro de ese README responde las siguientes preguntas.
@@ -33,13 +33,13 @@ Ahora que sabes que es GIT y como funciona, deberás hacer tu primera tarea en G
     - pull
     - merge
 
-  - Nombra las fases de GIT y que pasa en cada una de ellas...
+  - Nombra las fases de GIT y qué pasa en cada una de ellas...
 
-  - ¿Que son las cosas que NO se deben hacer en un repositorio de GIT?
+  - ¿Qué son las cosas que NO se deben hacer en un repositorio de GIT?
 
-  - ¿A que año debía volver Marty McFly para reestablecer la linea de tiempo?
+  - ¿A qué año debía volver Marty McFly para reestablecer la línea de tiempo?
 
-4.  Una ves que termines sube tus cambios a GIT y sube la liga del README.md a nuestra plataforma.
+4.  Una vez que termines sube tus cambios a GIT y sube la liga del README.md a nuestra plataforma.
 
 
 [Tatooine](tatooine.md) | [Siguiente](git-trello.md)

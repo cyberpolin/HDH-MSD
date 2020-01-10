@@ -3,7 +3,7 @@ Linux
 
 Para poder trabajar de manera eficiente y ser un desarrollador debes usar ciertos programas y lenguajes, los hay varios y de muchos estilos, unos sirven para aplicaciones de escritorio y otros para web, en Hipatia Dev House hemos seleccionado lo mejor para versiones Linux.
 
-Para poder completar el entrenamiento necesitaras lo siguiente.
+Para poder completar el entrenamiento necesitarás lo siguiente.
 
 ### 1. Descarga Sublime Text
 https://www.sublimetext.com/
@@ -44,17 +44,15 @@ A veces nos puede dar un error en ./configure, en ese caso no necesita compilaci
 
 ```Subl```
 
-
-
 ### 2. Instala zsh
 
-zsh es una versión de shell diferente a la que por defecto tiene nuestro Linux, alguna de sus ventajas es el manejo de branches (Ramas) de Git. Zsh tiene otras ventajas que utilizaras mas adelante, por lo pronto notaras una gran mejora visual.
+zsh es una versión de shell diferente a la que por defecto tiene nuestro Linux, alguna de sus ventajas es el manejo de branches (Ramas) de Git. Zsh tiene otras ventajas que utilizarás más adelante, por lo pronto notarás una gran mejora visual.
 
 ```
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 chsh -s $(which zsh)
 ```
-((Trainee, investigar que es un shell y que es un Bash Shell, hacer documento))
+((Trainee, investigar qué es un shell y qué es un Bash Shell, hacer documento))
 
 Alias   
 Una palabra o expresión corta (con determinadas características), mediante la cual estaríamos simplificando el ingresar comandos en nuestra terminal, a continuación veremos como crear alias.
@@ -64,7 +62,7 @@ Pasos para la creación de alias:
 - Abrimos la terminal.
 - Escribimos ```subl ~/.zshrc.```
 - Se abre una ventana de atom con el archivo zshrc.
-- Vamos hasta abajo de este archivo encontrando estas lineas comentadas.
+- Vamos hasta abajo de este archivo encontrando estas líneas comentadas.
 ```
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
@@ -83,7 +81,7 @@ which -s subl && export EDITOR="subl --wait"
 
 ### 3. Configura Git
 
-Git es un programa fundamental, ayuda al control de versiones de documentos, en el mundo del desarrollo lo ocupamos mucho ya que como veras es de gran ayuda y es una herramienta imprescindible.
+Git es un programa fundamental, ayuda al control de versiones de documentos, en el mundo del desarrollo lo ocupamos mucho ya que como verás es de gran ayuda y es una herramienta imprescindible.
 
 ```
 git config --global user.name "Juan Perez”
@@ -93,4 +91,4 @@ git config --global core.editor “subl -w"
 
 ### 4. Casi listo
 
-Estas a punto de iniciarte en el mundo de las artes oscuras del desarrollo web, felicidades, ahora solo tienes que seguir el curso de Mean Stack.
+Estás a punto de iniciarte en el mundo de las artes oscuras del desarrollo web, felicidades, ahora sólo tienes que seguir el curso de Mean Stack.
