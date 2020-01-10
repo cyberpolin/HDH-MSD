@@ -74,10 +74,10 @@ La mision no es facil, pero deberas recordar lo que haz aprendido hasta hoy, tie
 
 ## Tu mision
 
-Esta mision se dividira en 2 partes, la [primera parte](despegando-de-tatooine-1.md) sera preparar todo lo necesario para desarrollar tu sitio, desde la conceptializacion hasta el wireframing.
+Esta mision se dividira en 2 partes, la [primera parte](despegando-de-tatooine-1.md) sera preparar todo lo necesario para desarrollar tu sitio, desde la conceptualizacion hasta el wireframing.
 
-La [segunda y ultima](despegando-de-tatooine-2.md) sera ejecutar de manera eficiente la conceptualizacion que hiciste en la primera parte. Ser un Desarrollador a veces se trata de hacer sacrificios, y en este momento tu nave esta saliendo de la atmosfera de tatooine, que por alguna evento astronomico es mas espesa de lo normal, asi que manten tu concentracion y esfuerzos al cien por ciento.
+La [segunda y ultima](despegando-de-tatooine-2.md) sera ejecutar de manera eficiente la conceptualizacion que hiciste en la primera parte. Ser un Desarrollador a veces se trata de hacer sacrificios, y en este momento tu nave esta saliendo de la atmosfera de tatooine, que por algun evento astronomico es mas espesa de lo normal, asi que manten tu concentracion y esfuerzos al cien por ciento.
 
-En momentos como este es necesario olvidar las distracciones y concentrarse en tu teclado y capacidad para resolver porblemas.
+En momentos como este es necesario olvidar las distracciones y concentrarse en tu teclado y capacidad para resolver problemas.
 
 Ambas fases de la mision deberan ser terminadas el Lunes 18 antes de las 6pm, ponte de acuerdo con tu par y determinen horarios, asi como planes para llegar a la meta.
