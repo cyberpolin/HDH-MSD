@@ -5,13 +5,44 @@ Para poder trabajar de manera eficiente y ser un desarrollador debes usar cierto
 
 Para poder completar el entrenamiento necesitarás lo siguiente.
 
-### 1. Descarga atom
+### 1. Descarga Sublime Text
+https://www.sublimetext.com/
 
-https://atom.io/
+Sublime Text es un editor de texto y editor de código fuente está escrito en C++ y Python para los plugins. Es una herramienta concebida para programar sin distracciones. Su interfaz de color oscuro y la riqueza de coloreado de la sintaxis, centra nuestra atención completamente.
 
-Atom es un editor de código desarrollado y soportado por GIT, además de ser gratis y sencillo de usar, es muy flexible ya que su código es abierto y cualquiera puede desarrollar plugins o complementos para el. Atom es uno de los pocos editores modernos que soportan REACT y jsx.
+Tienes 2 opciones para instalar Sublime Text, la primera es instalarlo desde la terminal, para esto solo abre la consola CTRL+ALT+T y sigue los siguientes pasos:
 
-Además Atom es una aplicación de escritorio que está desarrollada con HTML, Javascript CSS y Node.js, ¿Te suena familiar?
+Primero añadimos el repositorio
+``` sudo add-apt-repository ppa:webupd8team/sublime-text-3```
+
+Lo siguiente que haremos sera actualizar nuestros propios repositorios
+```sudo apt-get update```
+
+Y para finalizar, instalamos el editor
+```sudo apt-get install sublime-text-installer```
+
+La segunda opcion seria descargar el archivo desde la pagina de [sublime text](https://www.sublimetext.com/).
+
+Una vez descargado el archivo, observamos que tiene una extension **.tar.bz2**, para proceder a instalar este tipo de archivos utilizaremos los siguientes codigos:
+
+Primero abrimos la terminal y ubicamos la carpeta donde esta el archivo, por default, este se va a la carpeta **Downloads**.
+```cd Downloads```
+
+Ya estando en el directorio, descomprimimos el archivo.
+```tar -jxvf sublime_text_3_build_3211_x64.tar.bz2```
+
+Configuramos.
+```./configure```
+
+Compilamos.
+```make```
+
+Y finalmente instalamos.
+```make install```
+
+A veces nos puede dar un error en ./configure, en ese caso no necesita compilación y con ejecutar nos sobra, en una terminal hacemos
+
+```Subl```
 
 ### 2. Instala zsh
 
@@ -29,7 +60,7 @@ Una palabra o expresión corta (con determinadas características), mediante la 
 Pasos para la creación de alias:
 
 - Abrimos la terminal.
-- Escribimos ```atom ~/.zshrc.```
+- Escribimos ```subl ~/.zshrc.```
 - Se abre una ventana de atom con el archivo zshrc.
 - Vamos hasta abajo de este archivo encontrando estas líneas comentadas.
 ```
@@ -41,9 +72,9 @@ Pasos para la creación de alias:
 - Bajo los comentarios agregamos los alias que queremos utilizar, podemos crear lo alias que creamos necesarios.
 
 ```
-alias e="atom"
+alias e="subl"
 alias pro="cd ~/Projects"
-which -s atom && export EDITOR="atom --wait"
+which -s subl && export EDITOR="subl --wait"
 ```
 - Guardamos el archivo y reiniciamos la terminal, para que se realicen los cambios.
 
@@ -55,7 +86,7 @@ Git es un programa fundamental, ayuda al control de versiones de documentos, en 
 ```
 git config --global user.name "Juan Perez”
 git config --global user.email juanperez@ejemplo.com
-git config --global core.editor “atom -w"
+git config --global core.editor “subl -w"
 ```
 
 ### 4. Casi listo

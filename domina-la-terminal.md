@@ -1,6 +1,6 @@
 ## Forma I: Shii-Cho
 
-Los iniciados en las artes Jedi aprenden en primer lugar este modo de combate, basado en técnicas de Kendo, debido a su versatilidad. En ocasiones conocida como "La forma ideal", utiliza barridos horizontales y bloqueos verticales para repeler los ataques laterales, es decir, con la hoja del sable en posición perpendicular a la ofensiva recibida.
+Los iniciados en las artes Jedi aprenden en primer lugar este modo de combate, basado en técnicas de Kendo, debido a su versatilidad. En ocasiones, conocida como "La forma ideal", utiliza barridos horizontales y bloqueos verticales para repeler los ataques laterales, es decir, con la hoja del sable en posición perpendicular a la ofensiva recibida.
 
 El manejo de la terminal es elemental para un desarrollador Jedi, es la manera más básica para comunicarse con una computadora, y la mas eficaz. Un Desarrollador debe ser un fluido espadachín en las artes de la línea de comandos, esto te ahorrará tiempo y seamos honestos, no hay nada más puro que la simplicidad y belleza de la terminal.
 
@@ -12,7 +12,7 @@ Investiga qué es el bash, toma al menos un pomodoro o como máximo 4 para inves
 
 
 ### Lo que haz aprendido, reflexionar debes...
-Reflexionar es fundamental para afirmar tus conocimientos, es necesario que analices lo aprendido y que escribas un documento explicado le a alguien que no tiene idea que es el bash...
+Reflexionar es fundamental para afirmar tus conocimientos, es necesario que analices lo aprendido y que escribas un documento explicandole a alguien que no tiene idea que es el bash...
 
 (\*)
 

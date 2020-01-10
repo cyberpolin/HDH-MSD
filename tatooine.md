@@ -78,6 +78,7 @@ Esta misión se dividirá en 2 partes, la [primera parte](despegando-de-tatooine
 
 La [segunda y ultima](despegando-de-tatooine-2.md) será ejecutar de manera eficiente la conceptualización que hiciste en la primera parte. Ser un Desarrollador a veces se trata de hacer sacrificios, y en este momento tu nave esta saliendo de la atmósfera de tatooine, que por alguna evento astronómico es mas espesa de lo normal, asi que manten tu concentración y esfuerzos al cien por ciento.
 
-En momentos como este es necesario olvidar las distracciones y concentrarse en tu teclado y capacidad para resolver porblemas.
+
+En momentos como este es necesario olvidar las distracciones y concentrarse en tu teclado y capacidad para resolver problemas.
 
 Ambas fases de la misión deberán ser terminadas el Lunes 18 antes de las 6pm, ponte de acuerdo con tu par y determinen horarios, así como planes para llegar a la meta.

@@ -1,12 +1,7 @@
-# The atom basics
+# The Sublime Text basics
 
-Atom is a text editor based un HTML+CSS+JS technologies, it uses Node and have some C++ capabilities.
 
-## Open source
-
-Atom is also an open source project which means that anybody can contribute to it, and modified how it works, or add features to it, also Atom is supported from GIT and have and works amazingly good with it.
-
-The entire source code is [here](https://github.com/atom).
+Sublime Text es un editor de texto y editor de código fuente está escrito en C++ y Python para los plugins.1​ Desarrollado originalmente como una extensión de Vim
 
 ## La paleta de commandos (Command Palette)
 

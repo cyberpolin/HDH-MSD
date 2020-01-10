@@ -7,13 +7,31 @@ Para poder completar el entrenamiento necesitarás lo siguiente.
 
 
 
-### 1. Descarga atom
+### 1. Descarga Sublime Text
 
-https://atom.io/
+https://www.sublimetext.com/
 
-Atom es un editor de código desarrollado y soportado por GIT, además de ser gratis y sencillo de usar, es muy flexible ya que su código es abierto y cualquiera puede desarrollar plugins o complementos para él. Atom es uno de los pocos editores modernos que soportan REACT y jsx.
 
-Además Atom es una aplicación de escritorio que esta desarrollada con HTML, Javascript CSS y Node.js, ¿Te suena familiar?
+Sublime Text es un editor de texto y editor de código fuente está escrito en C++ y Python para los plugins.​ Es una herramienta concebida para programar sin distracciones. Su interfaz de color oscuro y la riqueza de coloreado de la sintaxis, centra nuestra atención completamente.
+
+Para proceder con la instalacion, primero que nada hay que descargar el instalador desde  [sublime text](https://www.sublimetext.com/).
+
+Posteriormente hay que montar el archivo como una unidad, esto lo hacemos con el siguiente comando:
+```hdiutil mount Downloads/Sublime\ Text\ 2.0.2.dmg```   
+
+En este punto el editor esta instalado en el directorio **/applications**. Para poder ejecutar libremente Sublime desde la terminal, tenemos que crear un enlace desde su carpeta contenedora hacia la carpeta /usr/local/bin. Esto lo podemos hacer de la siguiente manera:
+
+```ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/sublime```  
+
+
+Finalmente para probarlo, ejecutamos:
+
+```sublime test.html```
+
+Al hacer esto se deberia abrir un archivo en sublime text llamado test.html, si esto paso asi, hemos terminado con la instalacion y solo faltaria desmontar la unidad:
+
+```hdiutil unmount /Volumes/Sublime\ Text\ 2  ```
+
 
 ### 2. Descarga spectacle
 
@@ -76,7 +94,7 @@ which -s atom && export EDITOR="atom --wait"
 
 ### 6. Instala Homebrew
 
-Mejor conocido como Brew, es un manejado de aplicaciones basadas en terminal, con esto podrás instalar varios lenguajes de programación, así como utilerías para desarrollo.
+Mejor conocido como Brew, es un manejador de aplicaciones basadas en terminal, con esto podrás instalar varios lenguajes de programación, así como utilerías para desarrollo.
 
 ```
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -84,7 +102,7 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 
 ### 7. Configura Git
 
-Git es un programa fundamental, ayuda al control de versiones de documentos, en el mundo del desarrollo lo ocupamos mucho ya que como veras es de gran ayuda y es una herramienta imprescindible.
+Git es un programa fundamental, ayuda al control de versiones de documentos, en el mundo del desarrollo lo ocupamos mucho ya que como veras, es de gran ayuda y es una herramienta imprescindible.
 
 ```
 git config --global user.name "Juan Perez”
