@@ -6,7 +6,7 @@ kamino esta rodeado por agua, los kaminoanos no te esperaban y tuviste que acuat
 
 ### 1. Bugs!
 
-Al parecer tu nave no enciende, abra que entrar a la consola y revisar el problema, no te preocupes, todo el sistema esta desarrollado en Javascript, un lenguaje que tu conoces, sin embargo, no estas acostumbrado a usarlo, mucho menos a debugear javascript, pero la orden Jedi dejo una serie de transmisiones para ti.
+Al parecer tu nave no enciende, Habrá que entrar a la consola y revisar el problema, no te preocupes, todo el sistema esta desarrollado en Javascript, un lenguaje que tu conoces, sin embargo, no estas acostumbrado a usarlo, mucho menos a debugear javascript, pero la orden Jedi dejo una serie de transmisiones para ti.
 
 Lo primero que debes saber es como [debugear en Javascript](http://www.youtube.com/watch?v=pIAV9gdpsgI).
 
@@ -34,8 +34,8 @@ Desarrollar en produccion es algo delicado, haz hecho modificaciones a una nave 
 Si no sabes que es TDD investiga en internet sobre TDD y TDD con Javascript (1 - 2) pomodoros, una ves que sepas que es TDD sube la siguiente reflexion al sistema con lo siguientes puntos.
 
 - Explica con tus propias palabras que es es TDD
-- Cuales son los frameworks que se usan con JS?
-- Por que es importante el TDD?
+- ¿Cuales son los frameworks que se usan con JS?
+- ¿Por que es importante el TDD?
 
 Ahora que sabes que es TDD [aprendamos a usar mocha](introduction-to-mocha.md) (0:00 - 2:47)
 
@@ -43,7 +43,7 @@ Si no crees que TDD es importante [observa este video](https://www.youtube.com/w
 [El bug mas mortal de la historia](http://archive.wired.com/software/coolapps/news/2005/11/69355?currentPage=all)
 
 
-## Como desarrollar?
+## ¿Como desarrollar?
 
 1. Pseudo codigo
 2. Codea (TDD)

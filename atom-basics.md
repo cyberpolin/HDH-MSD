@@ -1,4 +1,5 @@
-Sublime Text es un editor de texto y editor de código fuente está escrito en C++ y Python para los plugins.1​ Desarrollado originalmente como una extensión de Vim
+Sublime Text es un editor de texto y editor de código fuente está escrito en C++ y Python para los plugins
+.1​ Desarrollado originalmente como una extensión de Vim
 
 ## La paleta de commandos (Command Palette)
 
@@ -16,7 +17,7 @@ Adivina como puedes abrir los "Settings"?
 
 Asi es usando el "Command Palete", tambien hay un "shortcut" asi que usalo...
 
-Explora todas las opciones de "settings" y activa, o desactiva las que creas utiles, al final del dia quien usara ese editor eres tu, trata de mantener un balance y no personalizarlo demasiado, recuerda que en algun punto usaras otro equipo y no todos estaran personalizados a tu modo.
+Explora todas las opciones de "settings" y activa (o desactiva) las que creas utiles, al final del dia quien usara ese editor eres tu, trata de mantener un balance y no personalizarlo demasiado, recuerda que en algun punto usaras otro equipo y no todos estaran personalizados a tu modo.
 
 ### Key bindings
   Este es uno de los apartados mas interesantes, y es donde podras personalizar mas tu editor, casi todos los "shortcuts" por defecto son muy buenos, pero te recomendamos agregar uno para dividir la pantalla, asi que en el buscador escribe "split" y da clic en "your keymap file" eso abrira el archivo de personalizacion, agrega lo siguiente.
@@ -35,7 +36,7 @@ Tambien lee y busca "shortcuts" que creas que te serviran.
 
 Al ser un software privado, no hay tanta libertad de poder instalar packages ni themes en Sublime Text... PERO ESTO NO QUIERE DECIR QUE NO SE PUEDA, lo unico que tenemos que hacer es descargar un plug-in llamado [Package Control](https://packagecontrol.io/).
 
-Instalarlo es muy facil, unicamente entramos a la pagina, hacemos click donde dice install y seleccionamos la version de Sublime que tenemos, a continuacion, copiamos el codigo y nos vamos a nuestro Sublime Text, en donde navegaremos por el menú y accederemos a: Ver > Mostrar Consola.
+Instalarlo es muy facil, unicamente entramos a la pagina, hacemos click donde dice install y seleccionamos la versión de Sublime que tenemos, a continuacion, copiamos el codigo y nos vamos a nuestro Sublime Text, en donde navegaremos por el menú y accederemos a: Ver > Mostrar Consola.
 
 Nos aparecerá una barra en la parte inferior, en ella pegaremos el código anteriormente copiado y simplemente presionaremos Enter.
 
@@ -44,7 +45,7 @@ Y eso es todo lo que tenemos que hacer para instalar Package Control. A partir d
 ### Instalando Themes y ColorSchemes en Sublime Text.
 
 
-Una vez hayas identificado el que te ha gustado tienes que descargarlo para ello nos vamos a Sublime Text y presionamos Ctrl + Shift + P esto nos abrirá una ventana en la que escribiremos install y seleccionaremos la opción que dice: Package Control: Install Package presionamos Enter una vez mas y ahora tendremos un listado con todos los plugins, themes y colorschemes de sublime text. Basta con buscar el que queremos y seleccionarlo.
+Una vez hayas identificado el que te ha gustado tienes que descargarlo para ello nos vamos a Sublime Text y presionamos **Ctrl + Shift + P** esto nos abrirá una ventana en la que escribiremos install y seleccionaremos la opción que dice: Package Control: Install Package presionamos Enter una vez mas y ahora tendremos un listado con todos los plugins, themes y colorschemes de sublime text. Basta con buscar el que queremos y seleccionarlo.
 
 En la parte inferior izquierda de sublime text puedes ver si se ha descargado correctamente, ya que en ocasiones el proceso falla y tienes que repetir el proceso de descargar el theme.
 

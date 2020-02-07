@@ -44,7 +44,7 @@ La primera parte de tu entrenamiento esta completa, y haz salido de Tatooine y a
 - Dedica tiempo a aprender [Javascript con codecademy](https://www.codecademy.com/learn/javascript) (2 pomodoros)
 
 
-Antes que nada deberas [instalar Node.js en tu equipo](instalar-node.md), despues, recibiras transmisiones de tu instructor con misiones que deberas completar antes de llegar a tu destino,
+Antes que nada deberas [instalar Node.js en tu equipo](instalar-node.md), despues, recibiras transmisiones de tu instructor con misiones que deberas completar antes de llegar a tu destino.
 
 Kamino, esta en un sistema de 13 planetas en órbita a una estrella envejecida al sur del Laberinto Rishi, una galaxia enana satélite en órbita hacía y alrededor de la Galaxia principal. El tormentoso mundo acuático de Kamino se encontraba en el Espacio Salvaje. Su interior se componía de un núcleo fundido con un manto rocoso y una corteza de silicatos.
 

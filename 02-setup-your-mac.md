@@ -6,7 +6,6 @@ Para poder trabajar de manera eficiente y ser un desarrollador debes usar cierto
 Para poder completar el entrenamiento necesitaras lo siguiente.
 
 
-
 ### 1. Descarga Sublime Text
 
 https://www.sublimetext.com/
@@ -75,8 +74,8 @@ Una palabra o expresión corta (con determinadas características), mediante la 
 Pasos para la creación de alias:
 
 - Abrimos la terminal.
-- Escribimos ```atom ~/.zshrc.```
-- Se abre una ventana de atom con el archivo zshrc.
+- Escribimos ```Subl ~/.zshrc.```
+- Se abre una ventana de Sublime Text con el archivo zshrc.
 - Vamos hasta abajo de este archivo encontrando estas lineas comentadas.
 ```
 # Example aliases
@@ -85,9 +84,9 @@ Pasos para la creación de alias:
 ```
 - Bajo los comentarios agregamos los alias que queremos utilizar, podemos crear lo alias que creamos necesarios.
 ```
-alias e="atom"
+alias e="Subl"
 alias pro="cd ~/Projects"
-which -s atom && export EDITOR="atom --wait"
+which -s Subl && export EDITOR="Sublime Text --wait"
 ```
 - Guardamos el archivo y reiniciamos la terminal, para que se realicen los cambios.
 
@@ -110,4 +109,4 @@ git config --global core.editor “atom -wait"
 ```
 ### 8. Casi listo
 
-Estas a punto de iniciarte en el mundo de las artes oscuras del desarrollo web, felicidades, ahora solo tienes que seguir el curso de Mean Stack.
+Estas a punto de iniciarte en el mundo de las artes oscuras del desarrollo web, ¡felicidades! Ahora solo tienes que seguir el curso de Mean Stack.

@@ -19,7 +19,7 @@ Sigue las [6 fases del Dise;o Web](http://www.idesignstudios.com/blog/web-design
 Antes de iniciar un sitio debes definir cual es su proposito y la audiencia a la que quieres enfocarte, debes saber quienes seran tus usuarios finales. Este sitio sera para el publico general que este interesado en productos tecnologicos.
 
 ### 2. Mapa del sitio
-El mapa del sitio es basico, aqui definiras las secciones del sitio y las ramificaciones que cada una tendra, al hacer el mapa del sitio tambien te ayudara a imaginar que tipo de elementos graficos usaras en la maqueta del sitio.
+El mapa del sitio es basico, aqui definiras las secciones del sitio y las ramificaciones que cada una tendra, al hacer el mapa del sitio tambien te ayudara a imaginar que tipo de elementos graficos usarás en la maqueta del sitio.
 
 Piensa que es lo que le quieres mostrar al usuario, y esas deberan ser tus secciones principales...
 Puedes usar [writemaps](https://www.writemaps.com/) para hacer el mapa del sitio.
@@ -30,18 +30,18 @@ Seguramente ya iniciaste un repositorio en el cual estas trabajando con el Git f
 Crea un README.md en el cual pondras las imagenes de tu "Site Map" y la justificacion del mismo. Lo mismo haras con todos los pasos que realices en todos tus proyectos.
 
 ### 4. Wireframing
-Uno de los pasos mas importantes del dis;o de un sitio es el maquetado o Wireframing, y es que basandote en el Map Site que hiciste con anterioridad crearas un Wireframe. Trata de mantener tu dise;o simple y entregale al usuario final lo que esta interesado encontrar en tu sitio.
+Uno de los pasos mas importantes del diseño de un sitio es el maquetado o Wireframing, y es que basandote en el Map Site que hiciste con anterioridad crearas un Wireframe. Trata de mantener tu diseño simple y entregale al usuario final lo que esta interesado encontrar en tu sitio.
 
 Tu sitio seguramente debe tener al menos un index, y una pagina individual para un producto, haz el wireframe de ambas y agregalas a la documentacion, si haces mas paginas esta bien, pero no es obligatorio.
 
 ### 5. Reflexiona
 
-Cuales son las 6 etapas del Dise;o Web?
-Cual es el objetivo principal de el sitio web?
-Que tpo de personas crees que estaran interesadas en el?
-Cual es la accion principal que un usuario hara en tu sitio?
-Cual son las cosas mas importantes de la experiencia de usuario?
-Que parte de la mision se te hizo mas aburrida?
+¿Cuales son las 6 etapas del Diseño Web?
+¿Cual es el objetivo principal de el sitio web?
+¿Que tipo de personas crees que estaran interesadas en el?
+¿Cual es la accion principal que un usuario hara en tu sitio?
+¿Cual son las cosas mas importantes de la experiencia de usuario?
+¿Que parte de la mision se te hizo mas aburrida?
 
 
 Exlica brevemente con tus propias palabras los siguientes terminos...

@@ -31,7 +31,7 @@ Crearemos un programa de node muy sencillo
 ```touch app.js``` Esto creara un archivo
 ```atom app.js```
 
-Dentro de atom ańade al archivo…
+Dentro de Sublime ańade al archivo…
 
 ```
 console.log('Hola Hipatia Dev House');
@@ -50,8 +50,8 @@ alias js=javascripting
 
 Al finalizar haz una reflexion sobre el workshop que contenga lo siguiente...
 
-Cuantos pomodoros te tomo terminar?
-Que temas son con lo que mas luchaste? (Del mas dificil al menos dificil...)
+¿Cuantos pomodoros te tomo terminar?
+¿Que temas son con lo que mas luchaste? (Del mas dificil al menos dificil...)
 
-Que es npm?
-Para que usamos el ```alias js=javascripting```?
+¿Que es npm?
+¿Para que usamos el ```alias js=javascripting```?

@@ -4,14 +4,14 @@
 
 #### 1. Lo mas básico
 
-Como todo Padawan tu entrenamiento será lento al principio, debemos construir unas bases solidas para lo que viene a continuación, así que empezarás con [lo mas básico.](01-The-very-basics.md)
+Como todo Padawan, tu entrenamiento será lento al principio, debemos construir unas bases solidas para lo que viene a continuación, así que empezarás con [lo mas básico.](01-The-very-basics.md)
 
 Recuerda que todo contenido en ingles debe llevar la misma metodología, [es decir...](english-metodology.md)
 Así que toma fuerzas y prepárate, esta parte del entrenamiento es larga pero muy importante.
 
 ### 2. Preparando tu equipo
 
-Despues de todo que es un Jedi sin su lightsaber, es hora de preparar las herramientas para construir el lightsaber mas legendario que el Imperio haya visto jamás.
+Despues de todo... ¿que es un Jedi sin su lightsaber? Es hora de preparar las herramientas para construir el lightsaber mas legendario que el Imperio haya visto jamás.
 
 Toma un minuto y visualízalo, siente cuando lo empuñas, ¿pesa?, ¿es grande?, balancéalo, ahora imagínate ya todo un Jedi, defendiendo la Galaxia con tus habilidades de desarrollador...
 

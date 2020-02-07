@@ -1,7 +1,7 @@
 # Preparando tu equipo   
 Linux
 
-Para poder trabajar de manera eficiente y ser un desarrollador debes usar ciertos programas y lenguajes, los hay varios y de muchos estilos, unos sirven para aplicaciones de escritorio y otros para web, en Hipatia Dev House hemos seleccionado lo mejor para versiones Linux.
+Para poder trabajar de manera eficiente y ser un desarrollador, debes usar ciertos programas y lenguajes, los hay varios y de muchos estilos, unos sirven para aplicaciones de escritorio y otros para web, en Hipatia Dev House hemos seleccionado lo mejor para versiones Linux.
 
 Para poder completar el entrenamiento necesitaras lo siguiente.
 
@@ -10,7 +10,8 @@ https://www.sublimetext.com/
 
 Sublime Text es un editor de texto y editor de código fuente está escrito en C++ y Python para los plugins. Es una herramienta concebida para programar sin distracciones. Su interfaz de color oscuro y la riqueza de coloreado de la sintaxis, centra nuestra atención completamente.
 
-Tienes 2 opciones para instalar Sublime Text, la primera es instalarlo desde la terminal, para esto solo abre la consola CTRL+ALT+T y sigue los siguientes pasos:
+Tienes 2 opciones para instalar Sublime Text:
+*La primera es instalarlo desde la terminal*, para esto solo abre la consola (CTRL+ALT+T) y sigue los siguientes pasos:
 
 Primero añadimos el repositorio
 ``` sudo add-apt-repository ppa:webupd8team/sublime-text-3```
@@ -21,7 +22,7 @@ Lo siguiente que haremos sera actualizar nuestros propios repositorios
 Y para finalizar, instalamos el editor
 ```sudo apt-get install sublime-text-installer```
 
-La segunda opcion seria descargar el archivo desde la pagina de [sublime text](https://www.sublimetext.com/).
+*La segunda opcion seria descargar el archivo desde la pagina de [sublime text](https://www.sublimetext.com/).*
 
 Una vez descargado el archivo, observamos que tiene una extension **.tar.bz2**, para proceder a instalar este tipo de archivos utilizaremos los siguientes codigos:
 
@@ -56,14 +57,14 @@ chsh -s $(which zsh)
 ```
 ((Trainee, investigar que es un shell y que es un Bash Shell, hacer documento))
 
-Alias   
+**Alias**   
 Una palabra o expresión corta (con determinadas características), mediante la cual estaríamos simplificando el ingresar comandos en nuestra terminal, a continuación veremos como crear alias.
 
 Pasos para la creación de alias:
 
 - Abrimos la terminal.
 - Escribimos ```subl ~/.zshrc.```
-- Se abre una ventana de atom con el archivo zshrc.
+- Se abre una ventana de Sublime Text con el archivo zshrc.
 - Vamos hasta abajo de este archivo encontrando estas lineas comentadas.
 ```
 # Example aliases
@@ -83,7 +84,7 @@ which -s subl && export EDITOR="subl --wait"
 
 ### 3. Configura Git
 
-Git es un programa fundamental, ayuda al control de versiones de documentos, en el mundo del desarrollo lo ocupamos mucho ya que como veras es de gran ayuda y es una herramienta imprescindible.
+Git es un programa fundamental, ayuda al control de versiones de documentos, en el mundo del desarrollo lo ocupamos mucho ya que como veras, es de gran ayuda y es una herramienta imprescindible.
 
 ```
 git config --global user.name "Juan Perez”
@@ -93,4 +94,4 @@ git config --global core.editor “subl -w"
 
 ### 4. Casi listo
 
-Estas a punto de iniciarte en el mundo de las artes oscuras del desarrollo web, felicidades, ahora solo tienes que seguir el curso de Mean Stack.
+Estas a punto de iniciarte en el mundo de las artes oscuras del desarrollo web, ¡felicidades! Ahora solo tienes que seguir el curso de Mean Stack.
