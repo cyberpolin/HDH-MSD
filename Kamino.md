@@ -6,7 +6,7 @@ kamino está rodeado por agua, los kaminoanos no te esperaban y tuviste que acua
 
 ### 1. Bugs!
 
-Al parecer tu nave no enciende, abra que entrar a la consola y revisar el problema, no te preocupes, todo el sistema esta desarrollado en Javascript, un lenguaje que tu conoces, sin embargo, no estás acostumbrado a usarlo, mucho menos a debugear javascript, pero la orden Jedi dejó una serie de transmisiones para ti.
+Al parecer tu nave no enciende, habrá que entrar a la consola y revisar el problema, no te preocupes, todo el sistema esta desarrollado en Javascript, un lenguaje que tu conoces, sin embargo, no estás acostumbrado a usarlo, mucho menos a debugear javascript, pero la orden Jedi dejó una serie de transmisiones para ti.
 
 Lo primero que debes saber es como [debugear en Javascript](http://www.youtube.com/watch?v=pIAV9gdpsgI).
 
