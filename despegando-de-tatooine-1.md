@@ -13,7 +13,7 @@ Desarrollarás un sitio web en el cual se venden celulares y tabletas, así como
 
 Sigue los [consejos](https://github.com/wtfluckey/sealions-designstuffs) de Aly Fluckey. Aqui está la [presentacion](https://speakerdeck.com/wtfluckey/design-stuffs).
 
-Sigue las [6 fases del Dise;o Web](http://www.idesignstudios.com/blog/web-design/phases-web-design-development-process/#.V4QLh5MrIUF)
+Sigue las [6 fases del Diseño Web](http://www.idesignstudios.com/blog/web-design/phases-web-design-development-process/#.V4QLh5MrIUF)
 
 ### 1. Propósito y usuario final.
 Antes de iniciar un sitio debes definir cuál es su propósito y la audiencia a la que quieres enfocarte, debes saber quiénes serán tus usuarios finales. Este sitio será para el público general que esté interesado en productos tecnológicos.

@@ -12,9 +12,9 @@ Para poder completar el entrenamiento necesitarás lo siguiente.
 https://www.sublimetext.com/
 
 
-Sublime Text es un editor de texto y editor de código fuente está escrito en C++ y Python para los plugins.​ Es una herramienta concebida para programar sin distracciones. Su interfaz de color oscuro y la riqueza de coloreado de la sintaxis, centra nuestra atención completamente.
+Sublime Text es un editor de texto y editor de código fuente que está escrito en C++ y Python para los plugins.​ Es una herramienta concebida para programar sin distracciones. Su interfaz de color oscuro y la riqueza de coloreado de la sintaxis, centra nuestra atención completamente.
 
-Para proceder con la instalacion, primero que nada hay que descargar el instalador desde  [sublime text](https://www.sublimetext.com/).
+Para proceder con la instalación, primero que nada hay que descargar el instalador desde  [sublime text](https://www.sublimetext.com/).
 
 Posteriormente hay que montar el archivo como una unidad, esto lo hacemos con el siguiente comando:
 ```hdiutil mount Downloads/Sublime\ Text\ 2.0.2.dmg```   
@@ -28,7 +28,7 @@ Finalmente para probarlo, ejecutamos:
 
 ```sublime test.html```
 
-Al hacer esto se deberia abrir un archivo en sublime text llamado test.html, si esto paso asi, hemos terminado con la instalacion y solo faltaria desmontar la unidad:
+Al hacer esto se deberia abrir un archivo en sublime text llamado test.html, si esto paso asi, hemos terminado con la instalación y solo faltaria desmontar la unidad:
 
 ```hdiutil unmount /Volumes/Sublime\ Text\ 2  ```
 
@@ -76,8 +76,8 @@ Una palabra o expresión corta (con determinadas características), mediante la 
 Pasos para la creación de alias:
 
 - Abrimos la terminal.
-- Escribimos ```atom ~/.zshrc.```
-- Se abre una ventana de atom con el archivo zshrc.
+- Escribimos ```subl ~/.zshrc.```
+- Se abre una ventana de subl con el archivo zshrc.
 - Vamos hasta abajo de este archivo encontrando estas lineas comentadas.
 ```
 # Example aliases

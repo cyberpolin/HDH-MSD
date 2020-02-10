@@ -21,9 +21,9 @@ Lo siguiente que haremos sera actualizar nuestros propios repositorios
 Y para finalizar, instalamos el editor
 ```sudo apt-get install sublime-text-installer```
 
-La segunda opcion seria descargar el archivo desde la pagina de [sublime text](https://www.sublimetext.com/).
+La segunda opción seria descargar el archivo desde la pagina de [sublime text](https://www.sublimetext.com/).
 
-Una vez descargado el archivo, observamos que tiene una extension **.tar.bz2**, para proceder a instalar este tipo de archivos utilizaremos los siguientes codigos:
+Una vez descargado el archivo, observamos que tiene una extensión **.tar.bz2**, para proceder a instalar este tipo de archivos utilizaremos los siguientes codigos:
 
 Primero abrimos la terminal y ubicamos la carpeta donde esta el archivo, por default, este se va a la carpeta **Downloads**.
 ```cd Downloads```

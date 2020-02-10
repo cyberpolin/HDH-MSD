@@ -13,7 +13,7 @@ El científico mas prominente de nuestros tiempos explica qué son los viajes en
 Aquí encontrarás una explicación mas clara de que es GIT.
 
 - [Que es GIT](https://www.youtube.com/watch?v=GDFr8j_ZHwY) (Video desarrollado por Hipatia Dev House)
-- [Git basic usage](https://www.youtube.com/watch?v=DXmWPokwmqU)
+- [Git basic usage](https://www.youtube.com/watch?v=HVsySz-h9r4)
 
 
 Ahora que sabes qué es GIT y como funciona, deberás hacer tu primera tarea en GIT de ahora en adelante todas tus tareas deberán ser entregadas en GIT.

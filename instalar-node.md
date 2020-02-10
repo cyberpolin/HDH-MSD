@@ -1,4 +1,4 @@
-Node.js es Javascript en una consola, si haz utilizado Python o Ruby estarás familiarizado con este concepto. Node.js corre sobre un motor de código abierto que desarrollo google, llamado V8, este motor es muy rápido, por lo que se ha convertido en el favorito de la industria, y es la misma razón por la que Node.js lo usa.
+Node.js es Javascript en una consola, si haz utilizado Python o Ruby estarás familiarizado con este concepto. Node.js corre sobre un motor de código abierto que desarrolló google, llamado V8, este motor es muy rápido, por lo que se ha convertido en el favorito de la industria, y es la misma razón por la que Node.js lo usa.
 
 V8 corre directamente en lenguaje maquina, además mientras se ejecuta va  mejorando su rendimiento gracias a técnicas heurísticas, que no son el tema central de este documento, pero que son importantes de nombrar.
 
@@ -21,8 +21,8 @@ Una ves que tengamos NVM es cuestión de utilizarlo en la terminal
 
 ```nvm ls``` Lista las versiones disponibles localmente
 ```nvm ls-remote``` Lista las versiones remotas, de esta manera sabras que puedes instalar
-```nvm install <version>``` Instalara la version que le especifiques, o la mas cercana a ella.
-```nvm use <version>``` Usara la version especificada como la version por default
+```nvm install <version>``` Instalará la version que le especifiques, o la mas cercana a ella.
+```nvm use <version>``` Usara la versión especificada como la version por default
 ```nvm run <version> app,js``` Correrá la aplicación que le indiquemos con esa version de Node.js
 
 
@@ -31,7 +31,7 @@ Crearemos un programa de node muy sencillo
 ```touch app.js``` Esto creara un archivo
 ```atom app.js```
 
-Dentro de atom añade al archivo…
+Dentro de SUblime text añade al archivo…
 
 ```
 console.log('Hola Hipatia Dev House');
