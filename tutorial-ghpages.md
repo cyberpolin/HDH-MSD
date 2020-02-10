@@ -29,7 +29,7 @@ To https://github.com/WwaLlasS/tienda-online.git
 
 ### Momento de visualizar
 
-- Ahora para visitar tu sitio web lo que tienes que hacer es ir a navegador y de dirreción escribir lo siguiente: `username.github.io/repository`
+- Ahora para visitar tu sitio web lo que tienes que hacer es ir a navegador y de direción escribir lo siguiente: `username.github.io/repository`
 
 - En donde "username" debes sustituirlo por tu nombre de usuario de *Github* y "repository" por le nombre de tu repositorio, en mi caso tengo un repositorio llamado [simple-blog](https://github.com/WwaLlasS/simple-blog) y para acceder a el desde **Github Pages** sería de la siguiente manera: [wwallass.github.io/simple-blog](https://wwallass.github.io/simple-blog/)
 
