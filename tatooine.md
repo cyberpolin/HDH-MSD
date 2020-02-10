@@ -32,10 +32,10 @@ Recuerda como abordaste la técnica pomodoro, tendrás que hacer lo mismo con to
 
 (Si tienes problemas para ver los videos puedes descargar el plugin de chrome [Video Speed Controller](https://github.com/igrigorik/videospeed)).
 
-- [Emotional Intelligence](https://vimeo.com/99779530)
-- [Feedback](https://vimeo.com/99780302)
+- [Emotional Intelligence](https://www.youtube.com/watch?v=Vu6xM229q9I)
+- [Feedback](https://www.youtube.com/watch?v=X0xS5VNM2x0)
 - [Pairing](https://vimeo.com/76662569)
-- [Embrace confusion](embrace-confusion.mp4)
+- [Embrace confusion](https://www.youtube.com/watch?v=h__Gje8nmpc&t=182s)
 - [Zona de confort](https://www.youtube.com/watch?v=RSUykLfEmVE)
 
 
@@ -55,7 +55,7 @@ Tu lightsaber está casi listo, ahora hay que encenderlo y ver salir el hermoso 
 
 ## Tercer y último Sprint
 
-Antes de dejar Tatooine deberás probar que todas las herraminetas que haz adquirido las dominas de manera magistral, para eso deberás crear un sitio web desde cero, esta es la tarea mas grande y complicada a la que te enfrentarás. Hacer un sitio web no es cosa fácil, además de saber HTML+CSS debes entender que una pagina web no es solo un montón de código en unos archivos sino que también es un medio de comunicación audio visual, en un sitio web puedes publicar imágenes texto y videos.
+Antes de dejar Tatooine deberás probar que todas las herramientas que haz adquirido las dominas de manera magistral, para eso deberás crear un sitio web desde cero, esta es la tarea mas grande y complicada a la que te enfrentarás. Hacer un sitio web no es cosa fácil, además de saber HTML+CSS debes entender que una pagina web no es solo un montón de código en unos archivos sino que también es un medio de comunicación audio visual, en un sitio web puedes publicar imágenes texto y videos.
 Además el formato es único, no es como una revista impresa, tampoco como la TV o el radio. Los sitios web tienen su propio formato y eso en gran parte lo mas complicado de aprender y de implementar.
 
 ### Recuerda tu entrenamiento
